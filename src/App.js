@@ -176,7 +176,7 @@ class App extends Component {
           <h1 className="App-title">Happy V-day, babazoobazoo!</h1>
         </header>
         <div className="Calendar-container">
-          <h1>i made you an advent calendar too ;)</h1>
+          <h1>i made you an advent calendar too ;) .</h1>
           <img src={raptorjesus} />
           <CalendarRow
             onOpenModal={this.openModal}
