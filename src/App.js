@@ -18,6 +18,7 @@ import bryce from './images/we-went-here.jpg';
 import whiskey from './images/whiskey-circles.JPG';
 import goodtimes from './images/good-times.jpg';
 import pizza from './images/pizza-food.jpg';
+import mkt from './images/makeout.jpg';
 
 const firstCalendarItems = [
   {
@@ -109,8 +110,9 @@ const thirdCalendarItems = [
   }, {
     title: 'Thu',
     subtitle: '15',
-    source: firstfriend,
-    enabled: false,
+    source: mkt,
+    caption: 'Multnomah makeout sesh, January 1st 2016',
+    enabled: true,
   }, {
     title: 'Fri',
     subtitle: '16',
@@ -176,7 +178,7 @@ class App extends Component {
           <h1 className="App-title">Happy V-day, babazoobazoo!</h1>
         </header>
         <div className="Calendar-container">
-          <h1>i made you an advent calendar too ;) .</h1>
+          <h1>i made you an advent calendar too ;)</h1>
           <img src={raptorjesus} />
           <CalendarRow
             onOpenModal={this.openModal}
