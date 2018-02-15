@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-
 class CalendarRow extends Component {
   state = {
     rejected: null

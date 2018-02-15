@@ -1,11 +1,12 @@
 {
   "name": "valentine",
-  "homepage": "http://brmscheiner.github.io/babspace"
+  "homepage": "http://brmscheiner.github.io/babspace",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-modal": "^3.1.13",
     "react-scripts": "1.1.1"
   },
   "scripts": {

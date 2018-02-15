@@ -198,7 +198,7 @@ class App extends Component {
         <Modal isOpen={this.state.modalOpen} style={{background: '#fcfaff'}} >
           <div style={{ cursor: 'pointer', float: 'right' }} onClick={this.closeModal}>X</div>
           { this.state.activeEntry && <div style={{ textAlign: 'center' }}>
-            <img style={{ maxHeight: '400px' }} src={this.state.activeEntry.source} />
+            <img style={{ maxHeight: '500px' }} src={this.state.activeEntry.source} />
             <h3>{ this.state.activeEntry.caption }</h3>
           </div>}
         </Modal>
