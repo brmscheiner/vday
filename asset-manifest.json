@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.02fde961.css",
   "main.css.map": "static/css/main.02fde961.css.map",
-  "main.js": "static/js/main.9785b6a1.js",
-  "main.js.map": "static/js/main.9785b6a1.js.map",
+  "main.js": "static/js/main.a95bf5a2.js",
+  "main.js.map": "static/js/main.a95bf5a2.js.map",
   "static/media/adam-and-eve.jpg": "static/media/adam-and-eve.d5cfccd5.jpg",
   "static/media/beach-power.jpg": "static/media/beach-power.7c18c7a0.jpg",
   "static/media/beautiful.jpg": "static/media/beautiful.c2405b37.jpg",
@@ -17,6 +17,7 @@
   "static/media/pizza-food.jpg": "static/media/pizza-food.1184ea1e.jpg",
   "static/media/raptorjesus.png": "static/media/raptorjesus.835899f8.png",
   "static/media/road.jpg": "static/media/road.e7be247e.jpg",
+  "static/media/serious.jpg": "static/media/serious.715ee58a.jpg",
   "static/media/we-went-here.jpg": "static/media/we-went-here.c9d3a862.jpg",
   "static/media/whiskey-circles.JPG": "static/media/whiskey-circles.5c6f2dad.JPG"
 }
