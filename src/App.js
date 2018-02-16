@@ -112,7 +112,7 @@ const thirdCalendarItems = [
     title: 'Thu',
     subtitle: '15',
     source: mkt,
-    caption: 'Multnomah makeout sesh, January 1st 2016',
+    caption: 'Multnomah makeout sesh, January 1st 2017',
     enabled: true,
   }, {
     title: 'Fri',
