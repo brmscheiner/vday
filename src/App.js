@@ -19,6 +19,7 @@ import whiskey from './images/whiskey-circles.JPG';
 import goodtimes from './images/good-times.jpg';
 import pizza from './images/pizza-food.jpg';
 import mkt from './images/makeout.jpg';
+import serious from './images/serious.jpg';
 
 const firstCalendarItems = [
   {
@@ -116,8 +117,9 @@ const thirdCalendarItems = [
   }, {
     title: 'Fri',
     subtitle: '16',
-    source: firstfriend,
-    enabled: false,
+    source: serious,
+    caption: 'its the weekend babazoo! lets get seriouuuus!',
+    enabled: true,
   }
 ];
 
