@@ -21,6 +21,7 @@ import pizza from './images/pizza-food.jpg';
 import mkt from './images/makeout.jpg';
 import serious from './images/serious.jpg';
 import grandma from './images/grandma.jpg';
+import latch from './images/latch.jpg';
 
 const firstCalendarItems = [
   {
@@ -134,8 +135,9 @@ const fourthCalendarItems = [
   }, {
     title: 'Tue',
     subtitle: '20',
-    source: firstfriend,
-    enabled: false,
+    source: latch,
+    caption: 'ben without abs, still ok i guess',
+    enabled: true,
   }, {
     title: 'Wed',
     subtitle: '21',
