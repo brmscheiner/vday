@@ -20,6 +20,7 @@ import goodtimes from './images/good-times.jpg';
 import pizza from './images/pizza-food.jpg';
 import mkt from './images/makeout.jpg';
 import serious from './images/serious.jpg';
+import grandma from './images/grandma.jpg';
 
 const firstCalendarItems = [
   {
@@ -127,8 +128,9 @@ const fourthCalendarItems = [
   {
     title: 'Mon',
     subtitle: '19',
-    source: firstfriend,
-    enabled: false,
+    source: grandma,
+    caption: 'I cant wait to see grandma!',
+    enabled: true,
   }, {
     title: 'Tue',
     subtitle: '20',
