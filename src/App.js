@@ -23,6 +23,7 @@ import serious from './images/serious.jpg';
 import grandma from './images/grandma.jpg';
 import latch from './images/latch.jpg';
 import allthelights from './images/allthelights.jpg';
+import fancy from './images/fancy.jpg';
 
 const firstCalendarItems = [
   {
@@ -148,8 +149,9 @@ const fourthCalendarItems = [
   }, {
     title: 'Thu',
     subtitle: '22',
-    source: firstfriend,
-    enabled: false,
+    source: fancy,
+    caption: 'We hardly ever get fancy, but we ARE good at it',
+    enabled: true,
   }, {
     title: 'Fri',
     subtitle: '23',
