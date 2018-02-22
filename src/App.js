@@ -22,6 +22,7 @@ import mkt from './images/makeout.jpg';
 import serious from './images/serious.jpg';
 import grandma from './images/grandma.jpg';
 import latch from './images/latch.jpg';
+import allthelights from './images/allthelights.jpg';
 
 const firstCalendarItems = [
   {
@@ -141,7 +142,8 @@ const fourthCalendarItems = [
   }, {
     title: 'Wed',
     subtitle: '21',
-    source: firstfriend,
+    source: allthelights,
+    caption: 'come home before he eats all the food in your moms fridge!',
     enabled: false,
   }, {
     title: 'Thu',
