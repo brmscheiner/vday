@@ -144,7 +144,7 @@ const fourthCalendarItems = [
     subtitle: '21',
     source: allthelights,
     caption: 'come home before he eats all the food in your moms fridge!',
-    enabled: false,
+    enabled: true,
   }, {
     title: 'Thu',
     subtitle: '22',
