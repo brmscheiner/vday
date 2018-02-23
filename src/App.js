@@ -24,6 +24,7 @@ import grandma from './images/grandma.jpg';
 import latch from './images/latch.jpg';
 import allthelights from './images/allthelights.jpg';
 import fancy from './images/fancy.jpg';
+import collage from './images/collage.jpg';
 
 const firstCalendarItems = [
   {
@@ -155,8 +156,9 @@ const fourthCalendarItems = [
   }, {
     title: 'Fri',
     subtitle: '23',
-    source: firstfriend,
-    enabled: false,
+    source: collage,
+    caption: 'Colleen I love you so freakin much!!! YOU FINISHED THE C00Ze B00Ze!',
+    enabled: true,
   }
 ];
 
